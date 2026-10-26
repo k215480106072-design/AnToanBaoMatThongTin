@@ -1,0 +1,10 @@
+D:\Project\DuongHuuTao\MaHoaAes\obj\Debug\MaHoaAes.csproj.AssemblyReference.cache
+D:\Project\DuongHuuTao\MaHoaAes\obj\Debug\MaHoaAes.Form1.resources
+D:\Project\DuongHuuTao\MaHoaAes\obj\Debug\MaHoaAes.Properties.Resources.resources
+D:\Project\DuongHuuTao\MaHoaAes\obj\Debug\MaHoaAes.csproj.GenerateResource.cache
+D:\Project\DuongHuuTao\MaHoaAes\obj\Debug\MaHoaAes.csproj.CoreCompileInputs.cache
+D:\Project\DuongHuuTao\MaHoaAes\bin\Debug\MaHoaAes.exe.config
+D:\Project\DuongHuuTao\MaHoaAes\bin\Debug\MaHoaAes.exe
+D:\Project\DuongHuuTao\MaHoaAes\bin\Debug\MaHoaAes.pdb
+D:\Project\DuongHuuTao\MaHoaAes\obj\Debug\MaHoaAes.exe
+D:\Project\DuongHuuTao\MaHoaAes\obj\Debug\MaHoaAes.pdb

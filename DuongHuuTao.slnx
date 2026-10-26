@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="MaHoaAes/MaHoaAes.csproj" Id="84e80998-25e5-4129-b0e8-ad605ea85ead" />
+  <Project Path="MaHoaRsa/MaHoaRsa.csproj" Id="6568968e-d694-4c60-96e6-20d41fe2d78e" />
+</Solution>
